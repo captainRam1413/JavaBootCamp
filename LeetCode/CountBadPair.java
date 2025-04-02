@@ -1,3 +1,5 @@
+package LeetCode;
+
 // 2364. Count Number of Bad Pairs
 
 import java.util.HashMap;
